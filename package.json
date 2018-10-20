@@ -1,0 +1,25 @@
+{
+  "name": "mondenkind-kr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekoromancer/mondenkind-kr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nekoromancer/mondenkind-kr/issues"
+  },
+  "homepage": "https://github.com/nekoromancer/mondenkind-kr#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
